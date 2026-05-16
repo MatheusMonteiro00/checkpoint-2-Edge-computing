@@ -129,7 +129,7 @@ O código completo está disponível no arquivo:
 ---
 
 ## 🔗 Link do Tinkercad 
-[Link do Tinkercad](https://www.tinkercad.com/things/iHQOMPmWRzO-checkpoint-1-edge-computing-?sharecode=3En2xkqUMvYc_v6jiciqi4EynSPyQI2_bU2YAPSz6QI)
+[Link do Tinkercad]([https://www.tinkercad.com/things/iHQOMPmWRzO-checkpoint-1-edge-computing-?sharecode=3En2xkqUMvYc_v6jiciqi4EynSPyQI2_bU2YAPSz6QI](https://www.tinkercad.com/things/iHQOMPmWRzO-checkpoint-1-edge-computing-?sharecode=3En2xkqUMvYc_v6jiciqi4EynSPyQI2_bU2YAPSz6QI))
 
 --- 
 
