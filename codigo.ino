@@ -1,3 +1,12 @@
+//Integrantes Grupo DAC
+//André Victor
+//Davi Dias
+//David Mikael
+//Gabriel Novaga
+//Matheus Monteiro
+
+
+
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 
