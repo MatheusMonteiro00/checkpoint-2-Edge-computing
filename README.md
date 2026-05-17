@@ -172,7 +172,7 @@ O código completo está disponível no arquivo:
 
 O vídeo demonstrando o funcionamento completo do projeto pode ser acessado abaixo:
 
-[▶️ Clique aqui para assistir ao vídeo](LINK_DO_VIDEO)
+[▶️ Clique aqui para assistir ao vídeo](https://youtu.be/GWyMriV-ikk)
 
 ---
 
